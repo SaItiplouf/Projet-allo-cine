@@ -1,0 +1,109 @@
+.sheesh {
+display:flex;
+justify-content: center;
+background-color: rgb(0, 0, 0);
+color: white;
+}
+.bodyyy { 
+  background: url('https://mobimg.b-cdn.net/v3/fetch/4f/4fd6b28b3429fa57445284c0532ae9df.jpeg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+  .card {
+      display: flex;
+      text-align: center;
+      background-image: url("../../media/examples/star.png"),
+                    url("../../media/examples/lizard.png");
+
+  }
+  .poster {
+    background-image: url('https://unsplash.it/3000/2000?image=531');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+  }
+
+  .card-image {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/002/092/160/original/elegant-gold-stars-background-free-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+  }
+  
+  #btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    }
+
+  h3 {
+    color: rgb(255, 255, 255);
+  }
+
+
+.mini-img {
+  width: 130px;
+  height: 73px;
+  margin: 0 20px;
+}
+
+.main
+{
+  height:50px;
+  width:200px;
+  margin:auto;
+  margin-top:100px;
+}
+.checked
+{
+  color:red;
+}
+.unchecked
+{
+  color:black;
+}
+
+
+  h4 {
+line-height: 3px;
+  }
+
+
+  .height-100{
+    height:75px;
+}
+
+.ratings{
+  margin-right:10px;
+}
+
+.ratings i{
+    
+  color:#cecece;
+  font-size:32px;
+}
+
+.rating-color{
+  color:#fb3434 !important;
+}
+
+.review-count{
+  font-weight:400;
+  margin-bottom:2px;
+  font-size:24px !important;
+}
+
+.small-ratings i{
+color:#cecece;   
+}
+
+.review-stat{
+  font-weight:300;
+  font-size:18px;
+  margin-bottom:2px;
+}
